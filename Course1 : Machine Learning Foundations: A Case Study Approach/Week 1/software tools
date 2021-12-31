@@ -1,0 +1,28 @@
+𝐋𝐢𝐜𝐞𝐧𝐬𝐞𝐬 𝐟𝐨𝐫 𝐒𝐅𝐫𝐚𝐦𝐞 & 𝐓𝐮𝐫𝐢 𝐂𝐫𝐞𝐚𝐭𝐞
+Turi Create and the SFrame package are available in open-source under a permissive BSD license. So, you will always be able to use Turi Create and SFrames for free.
+> https://github.com/turi-code/SFrame
+
+There are many excellent machine learning libraries in Python.  
+One of the most popular one today is scikit-learn. 
+Similarly, there are many tools for data manipulations in Python; a popular example is Pandas.  
+However, most of these tools do not scale to large datasets, including some we will tackle in this specialization. 
+In addition, in this specialization, we will cover a wide range of ML models, feature engineering transformation, and evaluation metrics. 
+With most existing packages, you will have to install a combination of packages to get the tools that we need to tackle the use cases in this course.  
+This is possible, but requires advanced knowledge of Python, which we feel will slow down most people's learning of the core concepts.  
+
+𝐆𝐞𝐭𝐭𝐢𝐧𝐠 𝐬𝐭𝐚𝐫𝐭𝐞𝐝 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞𝐬𝐞 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+Downloading and installing Python, Jupyter Notebook and Turi Create on your own machine
+If you do not already have Python installed, download and install Python 3.7: https://www.python.org/downloads/.
+
+Download and install Jupyter Notebook: http://jupyter.org/install. Follow the instructions for "Installing Jupyter with pip", use the commands under the section for Python 3
+
+Download and install Turi Create: https://github.com/apple/turicreate#installation. Note: it is not required that you use virtualenv, but it might be helpful, especially if you run into installation issues due to conflicting versions of software.
+
+𝐎𝐭𝐡𝐞𝐫 𝐫𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+There are many Python resources available online. Here is a good place for documentation.
+
+- For Turi Create, there is also a lot of information available online. Here are some starting points.
+
+-The User Guide: https://apple.github.io/turicreate/docs/userguide/
+
+More Detailed API Docs: https://apple.github.io/turicreate/docs/api/
